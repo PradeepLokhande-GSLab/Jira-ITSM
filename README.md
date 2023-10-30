@@ -1,1 +1,7 @@
-fix for AJS-21 done
+
+
+ABC app v.1.4 fixed here
+
+
+
+
